@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031851960447",
+    "project_id": "dogslife-2025",
+    "storage_bucket": "dogslife-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031851960447:android:3e3219fd6f7e075606374a",
+        "android_client_info": {
+          "package_name": "com.bentpigeonnz.dogslife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUtDeWfwcgG7ibSTY8vFrGRt6ZQ2sWA28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

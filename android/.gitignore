@@ -12,3 +12,49 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melosearch
+
+# Android
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+local.properties
+
+# iOS/macOS (Optional, but safe to include even if unused)
+ios/
+macos/
+
+# VS Code & IntelliJ/Android Studio
+.idea/
+.vscode/
+*.iml
+
+# Others
+*.log
+*.lock
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+.env
+
+# Firebase CLI artifacts
+firebase_config.zip
+
+# Windows
+windows/build/
+
+# Web
+web/build/
+
+# Generated files
+lib/firebase_options.dart
