@@ -36,6 +36,9 @@ dependencies:
   cloud_firestore: ^5.6.9
   firebase_storage: ^12.4.7
   image_picker: ^1.1.2
+  flutter_google_places: ^0.3.0
+  google_maps_webservice: ^0.0.20
+  flutter_dotenv: ^5.0.2
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
